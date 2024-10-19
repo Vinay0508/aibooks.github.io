@@ -64,7 +64,7 @@ Machine learning has had a huge impact on academia and industry by turning data 
 
 <img src="https://www.packtpub.com/sites/default/files/B06193.png" width="120px"/>
 
-Machine learning as a field promises to bring increased intelligence to the software by helping us learn and analyse information efficiently and discover certain patterns that humans cannot. This book will be your guide as you embark on an exciting journey in machine learning using the popular Swift language.
+Machine learning as a field promises to bring increased intelligence to the software by helping us learn and analyze information efficiently and discover certain patterns that humans cannot. This book will be your guide as you embark on an exciting journey in machine learning using the popular Swift language.
 
 
 **Deep Learning**
